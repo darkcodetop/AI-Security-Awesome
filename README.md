@@ -80,8 +80,6 @@
 
 ### [DataCon 2019](https://www.butian.net/datacon) 
 
-![](./datacon_homepage.png)
-
 #### 方向一 DNS恶意流量检测
 
 ##### 背景
